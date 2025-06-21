@@ -6,9 +6,8 @@ A comprehensive REST API for the BoxCars automotive dealership platform built wi
 
 - **Authentication & Authorization**: JWT-based auth with role-based access control
 - **Vehicle Management**: CRUD operations for vehicle listings with advanced filtering
-- **User Management**: User profiles, favorites, and dealer accounts
+- **User Management**: User profiles, and dealer accounts
 - **Contact System**: Contact form submissions and inquiry management
-- **Blog System**: Content management for automotive blog posts
 - **Security**: Rate limiting, input validation, and security headers
 - **Database**: MongoDB with Mongoose ODM
 
